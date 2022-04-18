@@ -1,0 +1,84 @@
+{
+  "unpublishedPage": {
+    "name": "Page2",
+    "slug": "page2",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 710,
+          "containerStyle": "none",
+          "snapRows": 71,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 57,
+          "minHeight": 720,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "widgetName": "DatePicker1",
+              "minDate": "1920-12-31T18:30:00.000Z",
+              "dateFormat": "YYYY-MM-DD HH:mm",
+              "displayName": "DatePicker",
+              "iconSVG": "/static/media/icon.300e5ab8.svg",
+              "topRow": 23,
+              "bottomRow": 27,
+              "shortcuts": false,
+              "parentRowSpace": 10,
+              "labelWidth": 5,
+              "type": "DATE_PICKER_WIDGET2",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 14.90625,
+              "leftColumn": 10,
+              "labelPosition": "Left",
+              "isDisabled": false,
+              "key": "tincrz1893",
+              "isRequired": false,
+              "defaultDate": "2022-04-18T06:37:48.054Z",
+              "rightColumn": 30,
+              "widgetId": "qckk3amw6q",
+              "isVisible": true,
+              "datePickerType": "DATE_PICKER",
+              "label": "Label",
+              "version": 2,
+              "parentId": "0",
+              "labelAlignment": "left",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "timePrecision": "minute",
+              "firstDayOfWeek": 0,
+              "closeOnSelection": true,
+              "maxDate": "2121-12-31T18:29:00.000Z"
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "widgetNames": [
+          "DatePicker1",
+          "MainContainer"
+        ],
+        "validOnPageLoadActions": true,
+        "id": "Page2",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": []
+  },
+  "deleted": false,
+  "policies": [],
+  "gitSyncId": "625d09d177342c7fd9133184_625d0a1777342c7fd9133190"
+}
